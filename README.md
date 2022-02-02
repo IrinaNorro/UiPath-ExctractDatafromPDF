@@ -11,3 +11,5 @@ Before pushing Run button, you need to have
 
 ### Things to improve
 - extracting addresses in full format.
+
+![ExtractDatafromPDFsREGEX-KUVA](https://user-images.githubusercontent.com/80334153/152163359-8f8ea8d5-8edc-4adb-8682-e0a909c11754.PNG)
